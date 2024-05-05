@@ -1,4 +1,4 @@
-Hi, I’m @auxterlibre
+Hi, I’m Thiago.
 
 I am a game developer currently focused on making small games with Godot.
 
